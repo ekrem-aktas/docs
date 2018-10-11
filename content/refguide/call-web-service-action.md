@@ -174,7 +174,7 @@ The range determines how many objects are mapped and returned.
 | --- | --- |
 | All | Map and return all objects. |
 | First | Map and return only the first object. The result of the action will be a single object instead of a list. |
-| Custom | Map and return a given number of objects (limit). The limit is a microflow expression that should result in a number. |
+| Custom | Map and return a given number of objects (amount). The amount is a microflow expression that should result in a number. |
 
 ### 5.4 Store in Variable
 
